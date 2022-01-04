@@ -58,7 +58,7 @@ writeln;
         writeln(angka1 ,' \ ', angka2 ,'=', hasil:2:0);
         readln;
    end
-   else writeln ('TIDAK ADA PILIHSN TERSEBUT');
+   else writeln ('TIDAK ADA PILIHAN TERSEBUT');
    readln;
    end.
 
